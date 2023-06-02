@@ -1,5 +1,5 @@
 ### Well hello there 👋
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kim-keiser-23b589180" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/kim-keiser-23b589180?trk=profile-badge">Kim Keiser</a></div>
+
 <!--
 **Kimgmanis/kimgmanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
