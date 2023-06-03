@@ -15,7 +15,7 @@ My name is Kim and I'm a Computer Science Student.
 - Interested in developing video games with unity!
 - You can reach me @ kimx582r@stud.kea.dk
 
-### Skills
+### Skills and Tools
 <div align="left">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
