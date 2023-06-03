@@ -11,7 +11,7 @@
 ### About me
 My name is Kim and I'm a Computer Science Student.
 
-- My electives are Machine learning, Mobile development, and App developement.
+- My electives are Machine learning, Mobile Development - Android & iOS, and App developement with C#.
 - I'm hoping to start developing video games one day!
 - You can reach me @ kimx582r@stud.kea.dk
 
